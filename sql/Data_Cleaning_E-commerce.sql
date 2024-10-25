@@ -1,5 +1,5 @@
 -- Data Cleaning
--- MY attemp to clean a popular dataset 'e_commerce' from kaggle
+-- MY attempt to clean a popular dataset 'e_commerce' from kaggle
 -- I'll be performing the following data cleaning steps:
 -- 1. Remove Duplicates (if any).
 -- 2. Standardize the Data.
