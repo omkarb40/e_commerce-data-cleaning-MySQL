@@ -29,7 +29,7 @@ The full SQL script can be found in the `sql/data_cleaning.sql` file.
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/e-commerce-data-cleaning.git
+   git clone https://github.com/omkarb40/e-commerce-data-cleaning.git
 2. Run the data_cleaning.sql script in your SQL environment (e.g., MySQL Workbench, PostgreSQL, etc.).
 3. Optionally, load the dataset into your database by importing the e_commerce.csv file.
 
